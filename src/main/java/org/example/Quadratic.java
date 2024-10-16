@@ -1,5 +1,7 @@
 package org.example;
-
+//Andrew Smiley
+//Chapter 2
+//Program 10
 import java.util.Scanner;
 public class Quadratic
 {
